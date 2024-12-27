@@ -1,0 +1,12 @@
+{
+  "name": "rocketseat---nodejs",
+  "version": "1.0.0",
+  "main": "./src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch  src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
